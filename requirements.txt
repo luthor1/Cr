@@ -1,0 +1,14 @@
+pandas==2.1.2
+numpy==1.26.5
+torch==2.0.0            # sistemine uygun CUDA sürümü ile birlikte yükle (pip komutunda index-url ile)
+torchvision==0.15.1
+torchaudio==2.0.1
+transformers==4.41.0
+sentence-transformers==2.2.2
+scikit-learn==1.3.2
+joblib==1.3.2
+tqdm==4.66.1
+fuzzywuzzy==0.18.0
+optuna==3.4.1
+geopy==2.9.0
+psutil==5.9.5
