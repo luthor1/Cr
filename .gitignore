@@ -2,3 +2,4 @@
 /env/
 /data/train.csv/
 /checkpoints/
+/__pycache__/
